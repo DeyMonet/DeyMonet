@@ -23,7 +23,7 @@ I've been going through this coding journey since 2019 and I'm happy to show off
 
 ###### Data :
 - MySQL
-- AWS
+- Heroku
 - Okta
 
 ##### Tools :
@@ -34,9 +34,6 @@ I've been going through this coding journey since 2019 and I'm happy to show off
 - Version Control
 
 ---
-
-I have a blog website that I share my thoughts on today's tech, my projects (new and on-going), life and my journey, and much more.<br> Drop by and come take a look :D
-
 
 My contact info - [Email](mailto:dasia.monet98@outlook.com)
 
