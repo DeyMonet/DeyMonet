@@ -1,41 +1,31 @@
-# Hi! I'm Dasia Melvin (aka) DeyMonet!
+# Hi!
 
-### I'm an aspiring Full Stack Developer that specializes mostly in Java with the Spring Framework.
-
+I'm Dasia Melvin! I'm an aspiring Full Stack Developer that specializes mostly in Java with the Spring Framework.
 I've been going through this coding journey since 2019 and I'm happy to show off my work with full confidence!
 
+You can see my whole journey [here!](https://deymonet-blog-site.herokuapp.com)
 
-#### My stack development :
+---
+### Current Stack:
 
-###### Backend :
-- Java
-- Spring (MVC, Boot, Security)
-- Hibernate
-- J2EE
-- JPA
-- JDBC
+Backend: Java, Spring, Hibernate, J2EE, JPA, JDBC\
+Frontend: HTML5, CSS3, Angular, Bootstrap\
+Database: MySQL\
+Services: Heroku, Okta\
+Tools: Eclipse, Visual Studio Code, Maven\
 
-##### Frontend :
-- HTML5
-- CSS3
-- Angular
-- Bootstrap
+---
+### What I'm Learning:
 
-###### Data :
-- MySQL
-- Heroku
-- Okta
+I'm still honing my skills in Angular. I'm comfortable to write the code, but there's still a lot to learn.
 
-##### Tools :
-- Eclipse
-- Visual Studio Code
-- Maven
-- Git
-- Version Control
+### Future Learning:
+
+JavaScript, PostgreSQL, MongoDB, and React are my next goals. I'm always happy to learn new technology to help with my stack!
 
 ---
 
-My contact info - [Email](mailto:dasia.monet98@outlook.com)
+[Contact me](mailto:dasia.monet98@outlook.com)
 
 
 <!---
