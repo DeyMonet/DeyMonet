@@ -12,7 +12,7 @@ Backend: Java, Spring, Hibernate, J2EE, JPA, JDBC\
 Frontend: HTML5, CSS3, Angular, Bootstrap\
 Database: MySQL\
 Services: Heroku, Okta\
-Tools: Eclipse, Visual Studio Code, Maven\
+Tools: Eclipse, Visual Studio Code, Maven
 
 ---
 ### What I'm Learning:
