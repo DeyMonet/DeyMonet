@@ -17,7 +17,7 @@ Tools: Eclipse, Visual Studio Code, Maven
 ---
 ### What I'm Learning:
 
-I'm still honing my skills in Angular. I'm comfortable to write the code, but there's still a lot to learn.
+I'm still honing my skills in the Angular Framework. I'm comfortable to write the code, but there's still a lot to learn.
 
 ### Future Learning:
 
